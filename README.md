@@ -1,7 +1,7 @@
 👋 Hi, I’m Bismarck Ndou
 
 ---
-![](https://komarev.com/ghpvc/?username=ndoubismarck&color=007bfc&abbreviated=true&label=Profile%20Views&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ndoubismarck&color=007bfc&abbreviated=true&style=for-the-badge&label=Profile%20Views)
 
 ---
 - 👀 I’m an expert Full Stack Developer with Cutting-Edge Golang Expertise
